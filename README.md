@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [@shelflife](getshelflife.io)
 - 👨🏻‍💻 Previously: [@google](https://google.com/keep), [@blueapron](https://www.blueapron.com/), [@ebay](https://www.ebay.com)
 - ⚡ Fun fact: **I've been to all 50 states**
+- 🏡 Personal site: https://johncline.me
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clinejj&show_icons=true" alt="clinejj" /></p>
 
