@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm John
+# Ahoy 👋🏻, I'm John
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on [@shelflife](getshelflife.io)
