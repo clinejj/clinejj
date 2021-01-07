@@ -1,7 +1,7 @@
 # Ahoy 👋🏻, I'm John
 
 - 😄  Pronouns: he/him
-- 🔭  I’m currently working on [@shelf-life](getshelflife.io)
+- 🔭  I’m currently working on [@shelf-life](https://getshelflife.io)
 - 👨🏻‍💻  Previously: [@google](https://google.com/keep), [@blueapron](https://www.blueapron.com/), [@ebay](https://www.ebay.com)
 - ⚡  Fun fact: **I've been to all 50 states**
 - 🏡  Personal site: https://johncline.me
